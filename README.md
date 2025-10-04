@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rakshit</h1>
+<h1 align="center">Hi 👋, I'm Rakshit Chauhan</h1>
 
 - 🎯 I'm a MERN stack developer and competitive programmer.  
 - 🧠 Currently focused on **JavaScript, DSA**, and building scalable web apps.  
